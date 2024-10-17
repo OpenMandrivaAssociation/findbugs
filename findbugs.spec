@@ -10,7 +10,7 @@ Summary:        Find bugs in Java code
 
 Group:          Development/Java
 License:        LGPLv2+
-URL:            http://findbugs.sourceforge.net/
+URL:            https://findbugs.sourceforge.net/
 Source0:        http://downloads.sourceforge.net/%{name}/%{name}-%{version}-source.zip
 Source1:        findbugs-ant
 Source2:        findbugs-tools-README
