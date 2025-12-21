@@ -29,6 +29,7 @@ Patch1:         findbugs-asm-version.patch
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildArch:      noarch
 
+BuildRequires:	make
 BuildRequires:  findbugs-bcel
 BuildRequires:  ant-nodeps
 BuildRequires:  docbook-style-xsl
